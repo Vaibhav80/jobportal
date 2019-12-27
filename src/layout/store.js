@@ -1,14 +1,4 @@
-let jobs = [
-  {
-    id: 1,
-    companyName: "Infocrunch",
-    jobTitle: "Developer",
-    jobLocation: "Hyd",
-    jobDescription: "Desc",
-    openPositions: "2",
-    requiredSkills: "Blah, Blah, Blah"
-  }
-];
+let jobs = [];
 
 let selectedJob = {};
 
